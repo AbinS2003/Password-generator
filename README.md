@@ -16,8 +16,7 @@ A simple password generator web app that allows users to generate random, secure
 
 - HTML, CSS, and JavaScript for the front-end.
 
- ## Demo
-
-![Password Generator]( https://abins2003.github.io/Password-generator/) 
+## Live Demo
+Check out the live version [here](https://abins2003.github.io/Password-generator/).
 
 
